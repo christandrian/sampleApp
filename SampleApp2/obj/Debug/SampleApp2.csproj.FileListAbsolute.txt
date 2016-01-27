@@ -1,0 +1,15 @@
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\SampleApp2.exe.config
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\SampleApp2.exe
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\SampleApp2.pdb
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\EntityFramework.dll
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\MySql.Data.dll
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\EntityFramework.xml
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\obj\Debug\SampleApp2.csprojResolveAssemblyReference.cache
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\obj\Debug\SampleApp2.GateOut.resources
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\obj\Debug\SampleApp2.Properties.Resources.resources
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\obj\Debug\SampleApp2.csproj.GenerateResource.Cache
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\obj\Debug\SampleApp2.exe
+C:\Users\Christophe\documents\visual studio 2012\Projects\SampleApp2\SampleApp2\obj\Debug\SampleApp2.pdb
